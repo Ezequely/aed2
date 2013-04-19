@@ -4,10 +4,7 @@
  */
 package binarysearchtree;
 
-/**
- *
- * @author Teixeira
- */
+
 public class Nodo {
     private int key;
     private char color;
