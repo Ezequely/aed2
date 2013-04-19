@@ -4,10 +4,6 @@
  */
 package binarysearchtree;
 
-/**
- *
- * @author Teixeira
- */
 public class BST {
     protected Nodo root;
     
